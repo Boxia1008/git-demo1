@@ -14,6 +14,7 @@ public class Boot02Helloword2Application {
         System.out.println("hot-fix test!");
          System.out.println("测试-----------------");
         System.out.println("测试使用pull拉去远程库!");
+        System.out.println("第二次测试使用push");
     }
 
 }
