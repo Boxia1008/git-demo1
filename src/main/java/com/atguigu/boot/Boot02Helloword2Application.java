@@ -11,6 +11,7 @@ public class Boot02Helloword2Application {
         System.out.println("测试git");
         System.out.println("第三次测试git");
         System.out.println("测试合并分支");
+        System.out.println("hot-fix test!");
     }
 
 }
