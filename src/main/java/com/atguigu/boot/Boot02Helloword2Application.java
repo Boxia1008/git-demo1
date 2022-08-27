@@ -10,6 +10,7 @@ public class Boot02Helloword2Application {
         SpringApplication.run(Boot02Helloword2Application.class, args);
         System.out.println("测试git");
         System.out.println("第三次测试git");
+        System.out.println("测试合并分支");
     }
 
 }
