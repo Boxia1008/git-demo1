@@ -8,6 +8,7 @@ public class Boot02Helloword2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Boot02Helloword2Application.class, args);
+        System.out.println("测试git");
     }
 
 }
